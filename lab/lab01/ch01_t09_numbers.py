@@ -1,2 +1,2 @@
 cucumbers = 1
-price_per_cu
+price_per_cucmber = 3.25
