@@ -1,2 +1,2 @@
 product = 2*3
-reme
+remainder = 1398 % 11
