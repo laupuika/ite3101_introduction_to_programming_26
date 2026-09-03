@@ -1,3 +1,3 @@
 import datetime
 
-todays_date = f"{datetime.datetime.now():%d/%M}
+todays_date = f"{datetime.datetime.now():%d/%M/%Y}
