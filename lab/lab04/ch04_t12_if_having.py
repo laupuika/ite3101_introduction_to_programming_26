@@ -4,7 +4,7 @@ def using_control_once() -> str:
 
 
 def using_control_again() -> str:
-    if None:
+    if 9 == 9:
         return "Success #2"
 
 
