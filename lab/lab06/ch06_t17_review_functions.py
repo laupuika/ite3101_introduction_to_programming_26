@@ -1,4 +1,4 @@
-def shut_down(message:str)->str: 
+def shut_down(s:str)->str: 
   return message 
 
  if shut_down: 
