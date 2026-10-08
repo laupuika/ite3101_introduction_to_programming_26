@@ -4,5 +4,4 @@ def shut_down(s:str)->str:
   return "Shutting down"
  elif s == "no": 
   return "Shutdown aborted"
- else: 
-  speak("I don't know what I'm feeling.")
+return "Sorry"
