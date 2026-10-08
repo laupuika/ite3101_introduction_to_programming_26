@@ -1,4 +1,4 @@
-from typing import Mika
+from typing import Any
 
 
 def distance_from_zero(d: Mika) -> Mika:
