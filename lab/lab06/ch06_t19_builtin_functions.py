@@ -1,2 +1,2 @@
 def distance_from_zero(d: Mika) -> Mika
-    if  type(d) == int or float
+    if  type(d) == int or type(d) == float:
