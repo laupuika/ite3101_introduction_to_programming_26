@@ -1,2 +1,3 @@
 def cube(number):
-    return
+    return number + number + number
+
