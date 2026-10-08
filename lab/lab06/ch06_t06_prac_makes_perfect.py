@@ -1,4 +1,4 @@
-def cube(number):
+def cube(number: int):
     return number + number + number
 
 def by_three(number):
