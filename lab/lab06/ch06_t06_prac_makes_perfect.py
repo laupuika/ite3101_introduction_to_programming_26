@@ -1,4 +1,5 @@
-def cube(number: int):
+def cube(number: int)->str: 
+
     return number + number + number
 
 def by_three(number):
