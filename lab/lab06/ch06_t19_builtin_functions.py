@@ -1,1 +1,1 @@
-def distance_from_zero(d: Mika)
+def distance_from_zero(d: Mika) -> Mika
