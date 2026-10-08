@@ -1,7 +1,8 @@
 def shut_down(s:str)->str: 
 
  if s == "yes": 
-  speak("I'm happy!") 
+  return "Shutting down"
+
  elif sad(): 
   speak("I'm sad.") 
  else: 
