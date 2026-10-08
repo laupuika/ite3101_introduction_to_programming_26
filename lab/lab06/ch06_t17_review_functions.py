@@ -3,6 +3,6 @@ def shut_down(s:str)->str:
  if s == "yes": 
   return "Shutting down"
  elif s == "no": 
-  speak("I'm sad.") 
+  return "Shutdown aborted"
  else: 
   speak("I don't know what I'm feeling.")
