@@ -1,5 +1,4 @@
 def shut_down(s:str)->str: 
-  return message 
 
  if shut_down: 
   speak("I'm happy!") 
