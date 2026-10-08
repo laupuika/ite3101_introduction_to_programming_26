@@ -1,7 +1,7 @@
 def speak(message:str)->str: 
   return message 
 
- if happy(): 
+ if shut_down: 
   speak("I'm happy!") 
  elif sad(): 
   speak("I'm sad.") 
