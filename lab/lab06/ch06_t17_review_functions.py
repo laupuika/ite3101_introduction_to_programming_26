@@ -1,4 +1,4 @@
-def speak(message:str)->str: 
+def shut_down(message:str)->str: 
   return message 
 
  if shut_down: 
