@@ -6,5 +6,5 @@ def plane_ride_cost(city:str) -> int:
         return 183
     eilf city == "Tampa":
         return 220
-    eilf city == "Tampa":
+    eilf city == "Pitt":
         return 220
