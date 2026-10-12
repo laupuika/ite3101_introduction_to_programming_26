@@ -4,8 +4,8 @@ print(menu['Chicken Alfredo'])
 
 # Your code here: Add some dish-price pairs to menu!
 memu["Icecream"]
-memu['Chicken Alfredo']
-memu['Chicken Alfredo']
+memu["Spam"]
+memu[""]
 
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
