@@ -1,1 +1,1 @@
-groceri
+groceries = ["ban"]
