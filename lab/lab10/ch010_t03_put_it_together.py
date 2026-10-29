@@ -1,4 +1,4 @@
-students_list = [lloyd, alice, tyler]
+students = [lloyd, alice, tyler]
 
 lloyd = {
     "name": "Lloyd",
