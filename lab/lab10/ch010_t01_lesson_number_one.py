@@ -1,5 +1,5 @@
 lloyd = { 
-  "name": "Mr. Fluffles", 
+  "name": "lloyd", 
   "sounds": ["meow", "purr"] 
 } 
 print(animal["name"])
