@@ -21,4 +21,3 @@ lloyd = {
   "tests": [] 
   
 } 
-print(lloyd["name"])
