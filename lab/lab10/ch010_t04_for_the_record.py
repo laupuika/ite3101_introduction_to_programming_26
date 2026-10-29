@@ -18,7 +18,7 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-animal_sounds = { 
+for studentanimal_sounds = { 
   "cat": ["meow", "purr"], 
   "dog": ["woof", "bark"], 
   "fox": [], } 
