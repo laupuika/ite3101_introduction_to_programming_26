@@ -18,7 +18,7 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-for student = { 
+for student in students = { 
   "cat": ["meow", "purr"], 
   "dog": ["woof", "bark"], 
   "fox": [], } 
