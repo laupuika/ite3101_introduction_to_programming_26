@@ -17,3 +17,9 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
+
+animal_sounds = { 
+  "cat": ["meow", "purr"], 
+  "dog": ["woof", "bark"], 
+  "fox": [], } 
+print(animal_sounds["cat"])
