@@ -1,4 +1,4 @@
-animal = { 
+lloyd = { 
   "name": "Mr. Fluffles", 
   "sounds": ["meow", "purr"] 
 } 
