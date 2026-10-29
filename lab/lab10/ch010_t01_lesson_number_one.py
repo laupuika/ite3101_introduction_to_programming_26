@@ -1,7 +1,7 @@
 lloyd = { 
   "name": "Lloyd", 
   "homework": [] 
-  "homework": [] 
+  "quizzes": [] 
   "homework": [] 
 } 
 print(animal["name"])
