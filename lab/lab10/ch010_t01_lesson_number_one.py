@@ -3,7 +3,6 @@ lloyd = {
   "homework": [] 
   "quizzes": [] 
   "tests": [] 
-
 } 
 
 alice = { 
@@ -11,13 +10,11 @@ alice = {
   "homework": [] 
   "quizzes": [] 
   "tests": [] 
-  
-} 
+  } 
 
 lloyd = { 
   "name": "Lloyd", 
   "homework": [] 
   "quizzes": [] 
   "tests": [] 
-  
-} 
+  } 
