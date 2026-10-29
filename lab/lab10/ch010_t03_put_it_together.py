@@ -17,4 +17,4 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-my_list = [1, 2, 3]
+students_list = [1, 2, 3]
