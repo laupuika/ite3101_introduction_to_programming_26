@@ -2,6 +2,6 @@ lloyd = {
   "name": "Lloyd", 
   "homework": [] 
   "quizzes": [] 
-  "homework": [] 
+  "tests": [] 
 } 
 print(animal["name"])
