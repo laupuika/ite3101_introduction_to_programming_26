@@ -4,4 +4,4 @@ lloyd = {
   "quizzes": [] 
   "tests": [] 
 } 
-print(animal["name"])
+print(lloyd["name"])
