@@ -3,5 +3,7 @@ lloyd = {
   "homework": [] 
   "quizzes": [] 
   "tests": [] 
+  
 } 
+
 print(lloyd["name"])
