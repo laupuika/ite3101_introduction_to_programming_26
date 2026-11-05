@@ -7,3 +7,4 @@ def print_list(x:List(int)) -> None:
     for i in range(0, len(x)):
         print(x[i])
 
+print_list(n)
