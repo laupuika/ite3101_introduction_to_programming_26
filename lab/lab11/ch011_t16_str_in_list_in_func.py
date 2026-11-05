@@ -3,3 +3,4 @@ n = ["Michael", "Lieberman"]
 
 
 # print(join_strings(n))
+print(join_strings(n))
