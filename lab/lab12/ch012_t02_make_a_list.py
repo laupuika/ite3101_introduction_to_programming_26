@@ -1,2 +1,3 @@
 board = []
-range() 
+for i in range(5):
+    
