@@ -12,3 +12,4 @@ def  flatten(lists: List[List[int]]) -> List[int]:
     return results
 
 # print(flatten(n))
+print(flatten(n))
