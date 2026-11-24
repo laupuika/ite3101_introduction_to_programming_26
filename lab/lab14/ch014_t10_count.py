@@ -1,9 +1,9 @@
 from typing import List
 
 
-def count(sequence: List[int], item: int) -> int:
-    result = 0
-    for i in sequence:
-        if i == item:
-            result += 1
+def purify(seq: List[int]) -> List[int]:
+    result = []
+    for item in seq:
+        if item % 2 == 0:
+            result.append(item)
     return result
